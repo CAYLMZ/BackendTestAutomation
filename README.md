@@ -45,3 +45,5 @@ Open the project root directory in terminal/command line.
 ```bash
 $ mvn test
 ```
+### Note
+- Screenshots of the result and html report have been provided in the reports directory. 
